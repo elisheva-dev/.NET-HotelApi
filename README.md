@@ -1,4 +1,4 @@
-# 🏨 .NET-HotelApi
+# 🏨 Hotel Management API
 
 A RESTful Web API built with .NET for managing hotel data.
 
